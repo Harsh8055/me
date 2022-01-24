@@ -19,20 +19,6 @@ const projects = [
     height: 200
   },
   {
-    title: 'bayze - manage multiple ad accounts from a single dashboard',
-    image: '/bayze.png',
-    description: "<a href='https://bayze.in' target='_blank' className='project'>bayze</a> helps digital marketers manage multiple ad accounts from facebook and google, it also has a unique dashboard where marketers can sort campaings, ads based on clients and it helps in collaborative work!",
-    links: {
-      twitter: 'https://twitter.com/bayzecorp',
-      website: 'https://bayze.in',
-      demoVideo: '',
-      github: 'https://github.com/sk1122/Bayze-Frontend'
-    },
-    tags: ['web2', 'working'],
-    width: 300,
-    height: 200
-  },
-  {
     title: 'escrypt - freelancer market for web3 co\'s and dao\'s',
     image: '',
     description: "<a href='#' target='_blank' className='project'>escrypt</a> helps web3 devs find more interesting and challenging work, doing which they can earn money, hiring in web3 is not easy today and this is can be a possible solution to that!",
