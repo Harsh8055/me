@@ -76,12 +76,12 @@ export default function Home() {
 
       <main className='w-full h-full md:h-96 mt-16 flex flex-col md:flex-row justify-center items-center space-x-10'>
         <div className="w-48 h-48 md:w-64 md:h-64 rounded-full relative">
-          <Image className='rounded-full' src={'/me.jpg'} layout='fill'></Image>
+          <Image className='rounded-full' src={'/me2.png'} layout='fill'></Image>
         </div>
         <div className="flex flex-col justify-center items-start p-10">
-          <h1 className='text-2xl font-bold'>Satyam Kulkarni</h1>
-          <p className='text-md font-normal w-96'>18, building <a href="https://throwitin.xyz" target='_blank' className='project'>throwitin</a>, trying to market <a href="https://bayze.in" target='_blank' className='project'>bayze</a> (failing till now, but still trying because I believe in it😉), A builder building stuff that I like</p>
-          <p className='text-md font-normal'>wagmi🖖</p>
+          <h1 className='text-2xl font-bold'>Harsh Singh</h1>
+          <p className='text-md font-normal w-96'>18, building <a href="https://throwitin.xyz" target='_blank' className='project'>throwitin</a> , I build for fun and this fun drives me crazy more than anything </p>
+          <p className='text-md font-normal'>WA🖖</p>
           <div className="flex justify-start space-x-4 text-xl mt-5">
             <a href="https://twitter.com/sk1122_" target='_blank'>
               <i className="fab fa-twitter" style={{ color: '#1DA1F2' }}></i>
@@ -97,7 +97,7 @@ export default function Home() {
       </main>
       <div className="w-full h-1/3 flex flex-col justify-center items-center space-y-5 bg-violet-100 p-10">
         <h2 className='text-3xl font-bold project'>A little about me</h2>
-        <p className='mt-2 text-lg font-normal w-full md:w-1/2'>I am Satyam Kulkarni, 18, building <a href="https://throwitin.xyz" target='_blank' className='project'>throwitin</a>, trying to market <a href="https://bayze.in" target='_blank' className='project'>bayze</a> (failing till now, but still trying because I believe in it😉), I also have worked as a Backend Dev(Django) at <a href="https://webloominc.com/" target='_blank' className='project'>Webloom Solutions</a>. I am currently building stuff in web3, there's a lot to learn and build in web3, before this I used to work mostly in Django (my first web framework, so a different connection with it✨) though I think that Django is a great framework, some say it is slow but deep down we all know that it is one of the best framework (with drf ofcourse) to build an MVP from scratch. I still code in Django a lot, because there are still some things that we need to do in web2🥲, I also have built a lot of cool frontend's in <a href="https://github.com/sk1122?tab=repositories&q=&type=&language=javascript&sort=" className='project'>React/Next and Svelte</a> (Some in JS, Some in TS)</p>
+        <p className='mt-2 text-lg font-normal w-full md:w-1/2'>I am HarshSingh, building <a href="https://throwitin.xyz" target='_blank' className='project'>throwitin</a>. I am currently building stuff in web3, there's a lot to learn and build in web3, before this I used to work mostly in Django (my first web framework, so a different connection with it✨) though I think that Django is a great framework, some say it is slow but deep down we all know that it is one of the best framework (with drf ofcourse) to build an MVP from scratch. I still code in Django a lot, because there are still some things that we need to do in web2🥲, I also have built a lot of cool frontend's in <a href="https://github.com/sk1122?tab=repositories&q=&type=&language=javascript&sort=" className='project'>React/Next and Svelte</a> (Some in JS, Some in TS)</p>
         <p className='mt-2 text-lg font-normal w-full md:w-1/2'>
           <a href="https://bayze.in" target='_blank' className='project'>bayze</a> is built in Typescript, Nodejs, Nextjs, I started this project in around Oct 2021, started building out the thing while my buddy <a href="https://twitter.com/itz_prajwal22" className='project'>Prajwal</a> started asking questions to agencies, we both didn't knew shit about startups or marketing or even how to build a product from scratch but we learnt the hard way and still learning, trying hard to grow <a href="https://bayze.in" target='_blank' className='project'>bayze</a> without ads or any paid stuff, but onboarding traditional businesses as a 18 year old is hard!
         </p>
